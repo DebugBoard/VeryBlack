@@ -1,3 +1,3 @@
 # VeryBlack
-<img src="https://de4uth.org/c.png">
+<img src="https://de4uth.org/d.png">
 (Color Applied by Windows Accent Color)
